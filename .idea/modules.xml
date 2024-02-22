@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lab_1/Lab_1.iml" filepath="$PROJECT_DIR$/Lab_1/Lab_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P2834872_Slutskii.iml" filepath="$PROJECT_DIR$/P2834872_Slutskii.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 1 part 3 Strings and Lists/Week 1 part 3 Strings and Lists.iml" filepath="$PROJECT_DIR$/Week 1 part 3 Strings and Lists/Week 1 part 3 Strings and Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 20 part 2/Week 20 part 2.iml" filepath="$PROJECT_DIR$/Week 20 part 2/Week 20 part 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 21 part 1/Week 21 part 1.iml" filepath="$PROJECT_DIR$/Week 21 part 1/Week 21 part 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 21 part 2/Week 21 part 2.iml" filepath="$PROJECT_DIR$/Week 21 part 2/Week 21 part 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop/shop.iml" filepath="$PROJECT_DIR$/shop/shop.iml" />
+    </modules>
+  </component>
+</project>
