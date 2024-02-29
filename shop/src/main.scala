@@ -27,6 +27,8 @@ def main(): Unit = {
     println("========================")
     getSelect()
   }
+  
+  
   printPanel()
   while (select != 4){
     select match
